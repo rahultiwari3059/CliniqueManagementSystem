@@ -1,0 +1,9 @@
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/model/DoctorModel.java
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/CliniqueManagementSystem/Main.java
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/inputReader/DoctorInfoReader.java
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/model/CliniqueModel.java
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/model/PatientsModel.java
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/databaseManagement/DatabaseInsertionDaoImpl.java
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/databaseManagement/DatabaseInsertionDao.java
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/inputReader/CliniqueInfoReader.java
+/home/bridgeit/Documents/CliniqueManagementSystem/src/main/java/com/bridgelabz/inputReader/PatientInfoReader.java
